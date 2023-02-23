@@ -13,7 +13,7 @@ git submodule update --init --recursive
 
 Otherwise, you may download each script one by one.
 
-## How to
+## How to execute the scripts
 
 Clone the project or download the script you want and use `chmod +x [ SCRIPT_FILE ]` to make executable. 
 
